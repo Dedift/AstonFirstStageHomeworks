@@ -1,4 +1,4 @@
-package homeworks;
+package homeworks.collections;
 
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;
